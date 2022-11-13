@@ -1,0 +1,34 @@
+{
+  "name": "shopaa-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranminhnhat1005/shopaa-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranminhnhat1005/shopaa-backend/issues"
+  },
+  "homepage": "https://github.com/tranminhnhat1005/shopaa-backend#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.0",
+    "http-errors": "^2.0.0",
+    "mongoose": "^6.7.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "redis": "^4.5.0",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.2"
+  }
+}
